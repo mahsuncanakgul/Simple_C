@@ -1,0 +1,4 @@
+--- SISMOGRAF DEPREM RAPORU ---
+1. Olcum -> Buyukluk: 3.4 | Derinlik: 12 km [Normal Sarsinti]
+2. Olcum -> Buyukluk: 5.6 | Derinlik: 8 km [Siddetli Sarsinti]
+3. Olcum -> Buyukluk: 4.1 | Derinlik: 15 km [Normal Sarsinti]
